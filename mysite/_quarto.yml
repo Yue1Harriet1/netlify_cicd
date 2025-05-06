@@ -1,9 +1,8 @@
 project:
   type: website
-  output-dir: _site
 
 website:
-  title: "Harriet Website"
+  title: "mysite"
   navbar:
     left:
       - href: index.qmd
@@ -17,4 +16,6 @@ format:
       - brand
     css: styles.css
     toc: true
+
+
 
